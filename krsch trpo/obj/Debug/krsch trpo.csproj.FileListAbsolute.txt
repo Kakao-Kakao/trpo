@@ -1,0 +1,10 @@
+C:\Users\warlo\source\repos\krsch trpo\bin\Debug\krsch trpo.exe.config
+C:\Users\warlo\source\repos\krsch trpo\bin\Debug\krsch trpo.exe
+C:\Users\warlo\source\repos\krsch trpo\bin\Debug\krsch trpo.pdb
+C:\Users\warlo\source\repos\krsch trpo\obj\Debug\krsch trpo.csprojAssemblyReference.cache
+C:\Users\warlo\source\repos\krsch trpo\obj\Debug\krsch_trpo.Form1.resources
+C:\Users\warlo\source\repos\krsch trpo\obj\Debug\krsch_trpo.Properties.Resources.resources
+C:\Users\warlo\source\repos\krsch trpo\obj\Debug\krsch trpo.csproj.GenerateResource.cache
+C:\Users\warlo\source\repos\krsch trpo\obj\Debug\krsch trpo.exe
+C:\Users\warlo\source\repos\krsch trpo\obj\Debug\krsch trpo.pdb
+C:\Users\warlo\source\repos\krsch trpo\obj\Debug\krsch_trpo.Form2.resources
